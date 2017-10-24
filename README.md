@@ -1,1 +1,1 @@
-# Simply react project
+# Simply React Project
